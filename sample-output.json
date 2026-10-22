@@ -1,0 +1,182 @@
+[
+  {
+    "searchQuery": "Software",
+    "name": "ADD Flow Software GmbH",
+    "registerCourt": "Amtsgericht Leipzig",
+    "registerType": "HRB",
+    "registerNumber": "32835",
+    "registerId": "Amtsgericht Leipzig HRB 32835",
+    "registerNote": null,
+    "state": "Sachsen",
+    "seat": "Leipzig",
+    "status": "active",
+    "statusRaw": "aktuell",
+    "formerNames": [],
+    "availableDocuments": [
+      "AD",
+      "CD",
+      "HD",
+      "DK",
+      "UT",
+      "VÖ",
+      "SI"
+    ],
+    "legalForm": "Gesellschaft mit beschränkter Haftung",
+    "legalFormSource": "register",
+    "officialName": "ADD Flow Software GmbH",
+    "euid": null,
+    "legalFormCode": "221110",
+    "street": "Gohliser Straße",
+    "houseNumber": "7",
+    "postalCode": "04105",
+    "city": "Leipzig",
+    "shareCapital": 25000,
+    "shareCapitalCurrency": "EUR",
+    "businessPurpose": "die Erstellung, Vertrieb und Verkauf von Software, IT-Lösungen und WEB-Anwendungen sowie Erbringung von Schulung- und Consultingleistungen.",
+    "representationRule": null,
+    "foundingDate": null,
+    "statuteDate": "2016-07-06",
+    "lastStatuteChange": null,
+    "lastRegisterEntry": "2016-08-18",
+    "numberOfRegisterEntries": 1,
+    "officers": [
+      {
+        "name": "Steffen Stolze",
+        "role": "Geschäftsführer",
+        "type": "person"
+      }
+    ],
+    "branches": [],
+    "detailsError": null,
+    "scrapedAt": "2026-10-22T17:03:18+00:00"
+  },
+  {
+    "searchQuery": "Software",
+    "name": "AM Besitz + Verwaltung GmbH",
+    "registerCourt": "Amtsgericht Leipzig",
+    "registerType": "HRB",
+    "registerNumber": "1444",
+    "registerId": "Amtsgericht Leipzig HRB 1444",
+    "registerNote": null,
+    "state": "Sachsen",
+    "seat": "Leipzig",
+    "status": "active",
+    "statusRaw": "aktuell",
+    "formerNames": [
+      {
+        "name": "Wagner-GmbH-Automatisierung und Software",
+        "seat": "Markkleeberg"
+      },
+      {
+        "name": "Wagner GmbH Industrieautomation",
+        "seat": "Markkleeberg"
+      },
+      {
+        "name": "Wagner-GmbH-Automatisierung und Softwaren",
+        "seat": "Markkleeberg"
+      },
+      {
+        "name": "WLW Wagner Leisner Wolter GmbH Industrieautomation",
+        "seat": "Markkleeberg"
+      }
+    ],
+    "availableDocuments": [
+      "AD",
+      "CD",
+      "HD",
+      "DK",
+      "UT",
+      "VÖ",
+      "SI"
+    ],
+    "legalForm": "Gesellschaft mit beschränkter Haftung",
+    "legalFormSource": "register",
+    "officialName": "AM Besitz + Verwaltung GmbH",
+    "euid": null,
+    "legalFormCode": "221110",
+    "street": "Jacobstraße",
+    "houseNumber": "11",
+    "postalCode": "04105",
+    "city": "Leipzig",
+    "shareCapital": 25564.59,
+    "shareCapitalCurrency": "EUR",
+    "businessPurpose": "Planung, Entwurf, Beratung, Herstellung von Soft- und Hardware für regel- und steuertechnische Maschinen und Anlagen sowie betriebswirtschaftliche Beratung",
+    "representationRule": "Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so vertreten je zwei Geschäftsführer gemeinsam oder je ein Geschäftsführer in Gemeinschaft mit einem Prokuristen die Gesellschaft. Die Gesellschaft ist berechtigt, die Vertretungsbefugnis für einzelne Geschäftsführer abweichend zu regeln.",
+    "foundingDate": null,
+    "statuteDate": "1990-05-07",
+    "lastStatuteChange": "2021-05-26",
+    "lastRegisterEntry": "2021-06-01",
+    "numberOfRegisterEntries": 7,
+    "officers": [
+      {
+        "name": "Angelika Bordt",
+        "role": "Geschäftsführer",
+        "type": "person"
+      },
+      {
+        "name": "Michael Koy",
+        "role": "Prokurist",
+        "type": "person"
+      }
+    ],
+    "branches": [],
+    "detailsError": null,
+    "scrapedAt": "2026-10-22T17:03:24+00:00"
+  },
+  {
+    "searchQuery": "Software",
+    "name": "AMANOVA Select GmbH",
+    "registerCourt": "Amtsgericht Leipzig",
+    "registerType": "HRB",
+    "registerNumber": "42341",
+    "registerId": "Amtsgericht Leipzig HRB 42341",
+    "registerNote": null,
+    "state": "Sachsen",
+    "seat": "Leipzig",
+    "status": "active",
+    "statusRaw": "aktuell",
+    "formerNames": [
+      {
+        "name": "AFF Software UG (haftungsbeschränkt)",
+        "seat": "Leipzig"
+      }
+    ],
+    "availableDocuments": [
+      "AD",
+      "CD",
+      "HD",
+      "DK",
+      "UT",
+      "VÖ",
+      "SI"
+    ],
+    "legalForm": "Gesellschaft mit beschränkter Haftung",
+    "legalFormSource": "register",
+    "officialName": "AMANOVA Select GmbH",
+    "euid": null,
+    "legalFormCode": "221110",
+    "street": "Oststraße",
+    "houseNumber": "9",
+    "postalCode": "04317",
+    "city": "Leipzig",
+    "shareCapital": 25000,
+    "shareCapitalCurrency": "EUR",
+    "businessPurpose": "Nationale und Internationale Handel mit Waren aus den Bereichen Auto & Motorrad, Baby, Beleuchtung, Bürobedarf & Schreibwaren, Baumarkt, Computer & Zubehör, Drogerie und Körperpflege, Elektrogroßgeräte, Elektronik & Foto, Fashion, Games, Garten, Gewerbe, Industtie, Kamera & Foto, Koffer, Rucksäcke, Taschen, Kosmetik, Küche, Haushalt & Wohnen, Lebensmittel & Getränke, Spielzeug, Sport & Freizeit, sowohl über das Internet als auch über den Stationären Einzel- und Großhandel, Beratung anderer Handelsunternehmen sowie die Beteiligung an anderen Gesellschaften.",
+    "representationRule": null,
+    "foundingDate": null,
+    "statuteDate": "2023-12-15",
+    "lastStatuteChange": "2024-06-04",
+    "lastRegisterEntry": "2024-06-13",
+    "numberOfRegisterEntries": 2,
+    "officers": [
+      {
+        "name": "Robert Maximilian Johannes Reindke",
+        "role": "Geschäftsführer",
+        "type": "person"
+      }
+    ],
+    "branches": [],
+    "detailsError": null,
+    "scrapedAt": "2026-10-22T17:03:31+00:00"
+  }
+]
